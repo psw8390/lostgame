@@ -1,7 +1,7 @@
 {
   "name": "lostgame",
   "private": false,
-  "homepage": "https://github.com/psw8390/lostgame",
+  "homepage": "https://psw8390.github.io/lostgame",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
