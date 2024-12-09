@@ -146,14 +146,7 @@ const Home = () => {
             <Box
               dangerouslySetInnerHTML={{
                 __html: `
-    <iframe 
-      src="https://ads-partners.coupang.com/widgets.html?id=824800&template=carousel&trackingCode=AF4177756&subId=&width=680&height=140&tsource=" 
-      width="680" 
-      height="140" 
-      frameborder="0" 
-      scrolling="no" 
-      referrerpolicy="unsafe-url">
-    </iframe>`,
+ <iframe src="https://ads-partners.coupang.com/widgets.html?id=824800&template=carousel&trackingCode=AF4177756&subId=&width=680&height=140&tsource=" width="680" height="140" frameborder="0" scrolling="no" referrerpolicy="unsafe-url" browsingtopics></iframe>`,
               }}
             />
 
