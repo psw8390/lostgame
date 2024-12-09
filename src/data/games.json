@@ -1,0 +1,177 @@
+[
+  {
+    "name": "League of Legends",
+    "description": "A multiplayer online battle arena game by Riot Games.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "FIFA Online 4",
+    "description": "A football game series by EA.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "VALORANT",
+    "description": "A 5v5 tactical shooter game by Riot Games.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "PlayerUnknown's Battlegrounds",
+    "description": "A battle royale game developed by Bluehole.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Sudden Attack",
+    "description": "A first-person shooter game by Nexon.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Overwatch 2",
+    "description": "A team-based shooter game by Blizzard Entertainment.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Lost Ark",
+    "description": "An MMORPG with vast content and story by Smilegate RPG.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "MapleStory",
+    "description": "A 2D side-scrolling MMORPG by Nexon.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "StarCraft Remastered",
+    "description": "A real-time strategy game by Blizzard Entertainment.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Dungeon & Fighter",
+    "description": "An action RPG by Nexon.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "World of Warcraft",
+    "description": "An MMORPG by Blizzard Entertainment.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Apex Legends",
+    "description": "A battle royale game by Respawn Entertainment.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Cyphers",
+    "description": "A 3D AOS game by Neople.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Blade & Soul",
+    "description": "An oriental fantasy MMORPG by NCSoft.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "KartRider",
+    "description": "A casual racing game by Nexon.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "TalesRunner",
+    "description": "An online racing game by Smilegate Megaport.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Lineage",
+    "description": "An MMORPG by NCSoft.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Warcraft III",
+    "description": "A real-time strategy game by Blizzard Entertainment.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Hearthstone",
+    "description": "A digital card game by Blizzard Entertainment.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Diablo III",
+    "description": "A hack-and-slash RPG by Blizzard Entertainment.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Diablo IV",
+    "description": "The latest action RPG by Blizzard Entertainment.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Eternal Return",
+    "description": "A strategic survival battle royale by Nimble Neuron.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "StarCraft II",
+    "description": "A real-time strategy game by Blizzard Entertainment.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Black Desert",
+    "description": "An open-world MMORPG by Pearl Abyss.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Heroes of the Storm",
+    "description": "A team-based online battle game by Blizzard Entertainment.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Path of Exile",
+    "description": "An action RPG by Grinding Gear Games.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Fortnite",
+    "description": "A battle royale and sandbox building game by Epic Games.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Rainbow Six Siege",
+    "description": "A strategy-based first-person shooter game by Ubisoft.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Destiny 2",
+    "description": "An MMOFPS by Bungie.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Among Us",
+    "description": "A multiplayer game by InnerSloth.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Minecraft",
+    "description": "A survival game by Mojang.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Dead by Daylight",
+    "description": "A first-person shooter game by Behaviour Interactive.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Counter-Strike: Global Offensive",
+    "description": "A first-person shooter game by Valve.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "Genshin Impact",
+    "description": "An open-world action RPG by miHoYo.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "name": "The Sims 4",
+    "description": "A simulation game by Electronic Arts.",
+    "image": "https://via.placeholder.com/150"
+  }
+]
